@@ -13,7 +13,7 @@
 
 * 🎯 AIML Student @ Sanjivani University
 * 🧠 Exploring AI, ML, and Automation
-* 🏆 Finalist — ET GEN AI Hackathon
+* 🏆 Prototyping Round— ET GEN AI Hackathon
 * 🏆 Hackathon Finalist (AIXplore 2K26)
 * 💼 Completed Internship at **Cynor Tech**
 * ⚡ Love building real-world impactful projects
