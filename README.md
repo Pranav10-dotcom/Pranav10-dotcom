@@ -23,7 +23,7 @@
 
 ## 🏆 Achievements
 
-* 🥇 Finalist — **ET GEN AI Hackathon**
+* 🥇Prototype Round — **ET GEN AI Hackathon**
 * 🥈 Shortlisted Round 2 — AIXplore 2K26 Hackathon
 * 💼 Internship Completed — Cynor Tech
 
