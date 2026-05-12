@@ -20,7 +20,7 @@
 * 🏆 Semi Finalist — ET GEN AI Hackathon
 * 🏆 Semi Finalist — AIXplore 2K26 Hackathon
 * 🌟 Google Student Ambassador 2026
-* 🌸 GirlScript Summer of Code Ambassador
+* 🌸 GirlScript Summer of Code Ambassador/Contributer
 * ⚡ Passionate about building impactful real-world solutions
 * 📫 Email: [pranavsonawane.127@gmail.com](mailto:pranavsonawane.127@gmail.com)
 
@@ -31,7 +31,7 @@
 * 🥇 Semi Finalist — ET GEN AI Hackathon
 * 🥈 Semi Finalist — AIXplore 2K26 Hackathon
 * 🌟 Google Student Ambassador 2026
-* 🌸 GirlScript Summer of Code Ambassador
+* 🌸 GirlScript Summer of Code Ambassador/Contributer
 * 🌍 Open Source & Community Enthusiast
 
 ---
