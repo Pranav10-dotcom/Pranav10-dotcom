@@ -79,6 +79,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
 </p>
+**###** **DATABASE MANAGEMENT**
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
+</p>
 
 ### ⚙️ Tools & Automation
 
@@ -89,7 +93,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/N8N-Automation-orange?style=for-the-badge&logo=n8n" />
   <img src="https://img.shields.io/badge/UiPath-RPA-blue?style=for-the-badge&logo=uipath" />
-</p>
+  </p>
 
 ---
 
