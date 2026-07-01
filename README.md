@@ -54,6 +54,7 @@
 | 🤖 AI Transit Predictor | AI-based system for predicting transport delay propagation |
 | 🌾 Farmer Assistant App | Smart agriculture assistant for crop recommendations       |
 | 🔐 Smart Login Page     | Secure authentication system with enhanced protection      |
+| 🔐 Morse code decoder   | Easy reliable for secret talks and discussions, morse      |
 
 ---
 
