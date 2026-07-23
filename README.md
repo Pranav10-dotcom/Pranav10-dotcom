@@ -1,3 +1,4 @@
+mvn archetype:generate -DgroupId=com.careertiq.app -DartifactId=maven-java-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 <!-- 🔥 HEADER -->
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
